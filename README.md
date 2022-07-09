@@ -5,7 +5,7 @@
 
 ## Technologies
 
-This project leverages Python 3.7 with the following packages:
+This project leverages Python 3.7 and Jupyter Lab with the following packages:
 
 * [Pandas] (https://github.com/pandas-dev/pandas) - To create and manipulate dataframes
 * [Numpy] (https://github.com/numpy/numpy) - To calculate and add indicators to dataframes

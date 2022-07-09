@@ -36,9 +36,14 @@ Before running the application, first install the following dependencies
 
 ## Examples
 
-Upon running the inital code for yfinance data, you will be greeted with the following prompts
+Upon running the inital code for yfinance data, you will asked to input a stock ticker for data.
 
-![Yfinance Data Prompt](Images/Yfinance_Data_Pull.png)
+![Yfinance Data Prompt](Images/Yfinance_Data.PNG)
+
+Input in the following format 
+
+![Yfinance Data Prompt Complete](Images/Yfinance_Data2.PNG)
+
 
 ## Usage
 

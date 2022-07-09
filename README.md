@@ -75,9 +75,11 @@ After running all previous code, the following code gives us the results of the 
 
 ## Usage
 
+To use the Algo Trading Project application, clone the repository and run the **Backtest Trade Algorithm.ipynb** 
 
-#Contributors
+## Contributors
+
+Anand Krishnan (https://github.com/merutzu) - Recommended libraries to use for project and helped troubleshoot implementation.
 
 
-#
 

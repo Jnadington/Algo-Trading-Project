@@ -38,7 +38,7 @@ Before running the application, first install the following dependencies
 
 Upon running the inital code for yfinance data, you will be greeted with the following prompts
 
-![Yfinance Data Prompt](/Images/Yfinance_Data.PNG)
+![Yfinance Data Prompt](Images/Yfinance_Data.PNG)
 
 ## Usage
 

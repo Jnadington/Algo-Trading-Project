@@ -1,5 +1,5 @@
 # Algo Trading Project
- Algo trade execution with backtest displayed on candlestick. New feautures added as needed.
+Algo strategy execution with backtest displayed on line price chart with estimated returns. Allows user to adjust candlestick trade timeframe and TP/StopLoss for varying results. New feautures added as needed. Run on jupyterlab.
 
 --- 
 
@@ -43,6 +43,22 @@ Upon running the inital code for yfinance data, you will asked to input a stock 
 Input in the following format 
 
 ![Yfinance Data Prompt Complete](Images/Yfinance_Data2.PNG)
+
+--- 
+
+The following code will display a candlestick chart with 8/13/21 EMA's, ADX, and Volume. Must run all code blocks beforehand for this to display properly.
+
+![Candlestick Created](Images/Candlestick_Display.PNG)
+
+
+--- 
+
+After running the implement_ema_strategy function, running the following code will prompt you with a Take Profit % and Stop Loss %. Set these according to your preferences to backtest your algo against historical data. 
+
+![Candlestick Created](Images/tp_stoploss.PNG)
+
+---
+
 
 
 ## Usage

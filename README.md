@@ -77,6 +77,8 @@ After running all previous code, the following code gives us the results of the 
 
 To use the Algo Trading Project application, clone the repository and run the **Backtest Trade Algorithm.ipynb** on Jupyter Lab. 
 
+Currently does not connect to brokerages, however the entry signals can be used to take trades manually.
+
 ## Contributors
 
 Anand Krishnan (https://github.com/merutzu) - Recommended libraries to use for project and helped troubleshoot implementation.

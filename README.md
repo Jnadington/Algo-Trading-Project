@@ -1,5 +1,5 @@
 # Algo Trading Project
- Algo trade execution with backtest displayed on candlestick. New feautures added as needed.
+Algo strategy execution with backtest displayed on line price chart with estimated returns. Allows user to adjust candlestick trade timeframe and TP/StopLoss for varying results. New feautures added as needed. Run on jupyterlab.
 
 --- 
 

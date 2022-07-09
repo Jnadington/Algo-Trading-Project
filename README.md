@@ -53,7 +53,7 @@ The following code will display a candlestick chart with 8/13/21 EMA's, ADX, and
 
 --- 
 
-After running the implement_ema_strategy function, running the following code will prompt you with a Take Profit % and Stop Loss %. Set these according to your preferences to backtest your algo against historical data. 
+After running the implement_ema_strategy function, running the following code will prompt you with a Take Profit % and Stop Loss %. Set these according to your preferences to backtest your algo against historical data. Also adds the buy_price, sell_price, and ema_signal (whether trade meets criteria) to dataframe.
 
 ![Candlestick Created](Images/tp_stoploss.PNG)
 

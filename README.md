@@ -17,7 +17,7 @@ This project leverages Python 3.7 and Jupyter Lab with the following packages:
 * [MPLFinance] (https://github.com/matplotlib/mplfinance) - Used to create candlestick chart & display indicators 
 * [HVPlot] (https://github.com/holoviz/hvplot) - Used to backtest algo strategy and display on hvplot as buy and sell signals
 
-(Import code blocks included in application)
+(requirements.txt included in download)
 
 --- 
 
@@ -70,7 +70,7 @@ The following code prints the hvplot line chart that displays entry and exit poi
 
 
 
-After running all previous code, the following code gives us the results of the Algo trade by compounding % return and starting with 100000 as the initial investment.
+After running all previous code, the following code gives us the results of the Algo backtest by compounding % return and starting with 100000 as the initial investment.
 
 ![Backtest Results](Images/backtest_results.PNG)
 
